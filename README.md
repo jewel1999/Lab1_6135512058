@@ -1,1 +1,2 @@
-# Lab1_6135512058
+# miniproject
+rewrite for mini-project
